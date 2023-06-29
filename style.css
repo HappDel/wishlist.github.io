@@ -1,7 +1,7 @@
 body {
 	background-color: #a5d1d9;
 	font-family: sans-serif;
-	color: white;
+	color: #363636;
 	padding: 80px;
 }
 
@@ -26,6 +26,10 @@ h2 {
 	color: #363636;
 	font-size: 1.2em;
 	font-style: italic;
+}
+
+table {
+	color: white;
 }
 
 .container th h1 {
