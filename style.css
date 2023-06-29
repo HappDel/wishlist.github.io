@@ -25,6 +25,11 @@ h2 {
 .p {
 	color: #363636;
 	font-size: 1.2em;
+}
+
+.pi {
+	color: #363636;
+	font-size: 0.9em;
 	font-style: italic;
 }
 
