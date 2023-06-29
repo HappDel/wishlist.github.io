@@ -22,19 +22,15 @@ h2 {
 	font-weight: 900;
 }
 
-.p {
-	color: #363636;
-	font-size: 1.2em;
-}
-
 .pi {
 	color: #363636;
 	font-size: 0.9em;
 	font-style: italic;
 }
 
-table {
-	color: white;
+.p {
+	color: #363636;
+	font-size: 1.2em;
 }
 
 .container th h1 {
