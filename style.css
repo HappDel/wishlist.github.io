@@ -23,6 +23,10 @@ h2 {
 	font-weight: 900;
 }
 
+p {
+	border-radius: 5px;
+}
+
 .pi {
 	color: #363636;
 	font-size: 0.9em;
