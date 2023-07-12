@@ -16,6 +16,11 @@ a:hover {
 	font-weight: bold;
 }
 
+img {
+	margin: auto;
+	padding: 14px;
+}
+
 h2 {
 	color: #1F2739;
 	text-align: center;
